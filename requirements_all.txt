@@ -2267,3 +2267,4 @@ zigpy==0.20.4
 
 # homeassistant.components.zoneminder
 zm-py==0.4.0
+gitpython>=3.1.27 # not directly required, pinned by Snyk to avoid a vulnerability
