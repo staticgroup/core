@@ -331,7 +331,7 @@ homematicip==0.10.17
 
 # homeassistant.components.google
 # homeassistant.components.remember_the_milk
-httplib2==0.10.3
+httplib2==0.19.0
 
 # homeassistant.components.huawei_lte
 huawei-lte-api==1.4.12
@@ -414,7 +414,7 @@ numato-gpio==0.7.1
 # homeassistant.components.opencv
 # homeassistant.components.tensorflow
 # homeassistant.components.trend
-numpy==1.18.4
+numpy==1.22.2
 
 # homeassistant.components.google
 oauth2client==4.0.0
@@ -925,3 +925,4 @@ zigpy-zigate==0.6.1
 
 # homeassistant.components.zha
 zigpy==0.20.4
+websockets>=10.0 # not directly required, pinned by Snyk to avoid a vulnerability
