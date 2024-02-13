@@ -66,7 +66,7 @@ aioambient==1.1.1
 aioasuswrt==1.2.5
 
 # homeassistant.components.aws
-aiobotocore==0.11.1
+aiobotocore==2.9.1
 
 # homeassistant.components.dnsip
 # homeassistant.components.minecraft_server
