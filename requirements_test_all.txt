@@ -386,7 +386,7 @@ mficlient==0.3.0
 millheater==0.3.4
 
 # homeassistant.components.minio
-minio==4.0.9
+minio==7.2.11
 
 # homeassistant.components.tts
 mutagen==1.44.0
